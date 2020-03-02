@@ -1,0 +1,31 @@
+html {
+  margin: 40px auto;
+}
+.btn-search {
+	  background:red;
+	  border-radius: 0;
+	  color: #fff;
+	  border-width: 1px;
+	  border-style: solid;
+	  border-color: #1c1c1c;
+	}
+	.btn-search:link, .btn-search:visited {
+	  color: #fff;
+	}
+	.btn-search:active, .btn-search:hover {
+	  background: #1c1c1c;
+	  color: #fff;
+	}
+.search{
+  width: 400px;
+  float: left;
+  margin-left:30px;
+  margin-top: 3px;
+}
+form{
+  width: 200px;
+  margin-top:66px;
+}
+button{
+  background-color: blue;
+}

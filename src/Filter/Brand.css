@@ -1,0 +1,22 @@
+.card{
+    box-shadow: 0 0.1px  rgba(0,0,0,0.2);
+    max-width: 300px;
+    margin-left: 32px;;
+    justify-content: space-around;
+    width: 250px;
+
+
+
+}
+
+.head{
+    text-transform: uppercase;
+    font-weight: 1000;
+    margin-left:12px;
+    font-size: 13px;
+    margin-left: 10px;;
+}
+.head1 {
+    margin-left:12px;
+
+}

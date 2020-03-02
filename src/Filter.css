@@ -1,0 +1,24 @@
+.Filter {
+    margin-left:10px;
+    text-align: left;
+    float: left;
+    width: 300px;
+  }
+  .checkAllBrand {
+    margin-left: 10px;;
+  }
+  
+  ul {
+    list-style: none;
+    font-size: smaller;
+    margin-left: 10px;;
+  }
+  input {
+  background-color:white;
+  color: white;
+
+  }
+  span {
+    background-color: yellow;
+  }
+  

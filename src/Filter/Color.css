@@ -1,0 +1,14 @@
+.card{
+    height: 280px;
+}
+.title {
+    margin-top: auto;
+    font-weight: 1000;
+    text-transform: uppercase;
+    color:#666666;
+    font-size: 13px;
+    
+}
+.btn{
+    width: 100px;;
+}
